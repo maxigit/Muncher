@@ -1,0 +1,6 @@
+* Muncher
+** TODO allow muncher to die
+ie change type to a -> (Maybe b , Maybe (Muncher a b))
+- [ ] or Either b (Muncher a b) 
+** TODO build function which reset state
+ou resurector, allow a dying muncher to resurect with its original state
