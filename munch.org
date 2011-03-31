@@ -2,6 +2,7 @@
 ** TODO allow muncher to die
 ie change type to a -> (Maybe b , Maybe (Muncher a b))
 - [ ] or Either b (Muncher a b) 
+**- allow muncher to die gently or not (to manage error) 
 ** TODO build function which reset state
 ou resurector, allow a dying muncher to resurect with its original state
 ** TODO create join function for munch munc :rubish: 
