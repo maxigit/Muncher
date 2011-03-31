@@ -4,3 +4,5 @@ ie change type to a -> (Maybe b , Maybe (Muncher a b))
 - [ ] or Either b (Muncher a b) 
 ** TODO build function which reset state
 ou resurector, allow a dying muncher to resurect with its original state
+** TODO create join function for munch munc :rubish: 
+join :: (Muncher a (Muncher b c)) -> (Muncher a  c)
